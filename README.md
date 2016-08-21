@@ -24,9 +24,9 @@ Outils utilisés :
 
 Réfléchir et se poser des questions :
 
-1. De quoi parle votre site web ? 
-2. Quelles informations allez-vous présenter sur le sujet ?
-3. De quoi a l'air votre site web
+1. De quoi parle votre site web ? Choisir une thématique !
+2. Quelles informations allez-vous présenter sur le sujet ? Penser contenu !
+3. De quoi a l'air votre site web ? Penser design !
 
 
 
