@@ -52,10 +52,10 @@ Squelette HTML5 basique :
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Ma page de test</title>
+    <title>Ma page HTML5</title>
   </head>
   <body>
-    <img src="" alt="Mon image de test">
+    
   </body>
 </html>
 ```
