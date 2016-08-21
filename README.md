@@ -22,12 +22,19 @@ Outils utilisés :
 
 ### Commençons par le commencement : planifier !
 
-Réfléchir et se poser des questions :
+1. Réfléchir et se poser des questions :
 
-1. De quoi parle votre site web ? Choisir une thématique !
-2. Quelles informations allez-vous présenter sur le sujet ? Penser contenu !
-3. De quoi a l'air votre site web ? Penser design !
+* De quoi parle votre site web ? Choisir une thématique !
+* Quelles informations allez-vous présenter sur le sujet ? Penser contenu !
+* De quoi a l'air votre site web ? Penser design !
 
+2. Esquisser le concept sur papier !
+3. Choisir les composants :
+
+* Texte : à rédiger !
+* Couleur du thème : [Code couleur](http://www.code-couleur.com/index.html)
+* Images : [Freepik](http://www.freepik.com/), [Freeimages](http://fr.freeimages.com/)
+* Police : [Google Fonts](https://fonts.google.com/)
 
 
 
