@@ -62,9 +62,7 @@ Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans 
 
 ##  Les bases de HTML
 
-### Anatomie d'un élément HTML
-
-<img align="left"  alt=" Anatomie d'un élément HTML" src="https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/html-tag.gif"/>
+<img align="center"  alt=" Anatomie d'un élément HTML" src="https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/html-tag.gif"/>
 
 
 
