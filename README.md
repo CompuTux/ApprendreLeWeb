@@ -64,7 +64,7 @@ Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans 
 
 ### Anatomie d'un élément HTML
 
-![Un élément HTML](ApprendreLeWeb/images/HTML_1.svg "Un élément HTML")
+![Un élément HTML](https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/HTML_1.svg "Un élément HTML")
 
 
 
