@@ -45,7 +45,7 @@ Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans 
 3. Un dossier styles
 4. Un dossier scripts
 
-Squelette HTML5 basique :
+### Squelette HTML5 basique :
 
 ```html
 <!DOCTYPE html>
@@ -60,6 +60,11 @@ Squelette HTML5 basique :
 </html>
 ```
 
+##  Les bases de HTML
+
+### Anatomie d'un élément HTML
+
+![Un élément HTML](https://github.com/CompuTux/markdown-here/raw/master/src/common/images/icon48.png "Un élément HTML")
 
 
 
