@@ -34,6 +34,32 @@ Outils utilisés :
   * Images : [Freepik](http://www.freepik.com/), [Freeimages](http://fr.freeimages.com/)
   * Police : [Google Fonts](https://fonts.google.com  a/)
 
+### Où placer votre site web sur votre ordinateur ?
+
+Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans votre répertire home.
+
+### Quelle structure mettre en place pour votre site web ?
+
+1. Un fichier index.html
+2. Un dossier images
+3. Un dossier styles
+4. Un dossier scripts
+
+Squelette HTML5 basique :
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ma page de test</title>
+  </head>
+  <body>
+    <img src="" alt="Mon image de test">
+  </body>
+</html>
+```
+
 
 
 
