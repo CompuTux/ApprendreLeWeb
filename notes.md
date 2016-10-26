@@ -76,4 +76,10 @@ Squelette HTML5 basique :
 
 HTML contient des éléments pour 6 niveaux de titres : ```<h1>–<h6>```.
 
-Les éléments ```<p>``` sont utilisés pour contenir des paragraphes de texte
+Les éléments ```<p>``` sont utilisés pour contenir des paragraphes de texte.
+
+Deux types de liste :
+
+Les listes non-ordonnées ```<ul>```
+Les listes ordonnées ```<ol>```
+Chaque élément d'une liste est balisé avec un élément ```<li>```.
