@@ -62,7 +62,9 @@ Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans 
 
 ##  Les bases de HTML
 
-<img  alt=" Anatomie d'un élément HTML" src="https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/html-tag.gif"/>
+Hypertext Markup Language (HTML), c'est le code utilisé pour structurer le contenu d'une page web et lui fournir une signification et un but.
+
+<img  alt="Anatomie d'un élément HTML" src="https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/html-tag.gif"/>
 
 
 
