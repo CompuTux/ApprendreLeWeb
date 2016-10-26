@@ -83,4 +83,4 @@ Deux types de liste :
 Les listes non-ordonnées ```<ul>``` et les listes ordonnées ```<ol>```.
 Chaque élément d'une liste est balisé avec un élément ```<li>```.
 
-Les liens ```<a href="https://www.mozilla.org/fr/about/manifesto/">Manifeste Mozilla</a>```.
+Exemple de lien : ```<a href="https://www.mozilla.org/fr/about/manifesto/">Manifeste Mozilla</a>```.
