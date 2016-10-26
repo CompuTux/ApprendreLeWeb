@@ -74,6 +74,6 @@ Squelette HTML5 basique :
 
 ### Baliser le texte
 
-HTML contient des éléments pour 6 niveaux de titres : <h1>–<h6>.
+HTML contient des éléments pour 6 niveaux de titres : ```html<h1>–<h6>```.
 
-Les éléments <p> sont utilisés pour contenir des paragraphes de texte
+Les éléments ```html<p>``` sont utilisés pour contenir des paragraphes de texte
