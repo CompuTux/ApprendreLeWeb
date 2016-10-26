@@ -80,6 +80,5 @@ Les éléments ```<p>``` sont utilisés pour contenir des paragraphes de texte.
 
 Deux types de liste :
 
-Les listes non-ordonnées ```<ul>```
-Les listes ordonnées ```<ol>```
+Les listes non-ordonnées ```<ul>``` et les listes ordonnées ```<ol>```.
 Chaque élément d'une liste est balisé avec un élément ```<li>```.
