@@ -72,7 +72,7 @@ Squelette HTML5 basique :
 </html>
 ```
 
-### Baliser le texte
+### Structurer le texte
 
 HTML contient des éléments pour 6 niveaux de titres : ```<h1>–<h6>```.
 
