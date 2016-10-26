@@ -45,7 +45,19 @@ Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans 
 3. Un dossier styles
 4. Un dossier scripts
 
-### Squelette HTML5 basique :
+##  Les bases de HTML
+
+Hypertext Markup Language (HTML), c'est un langage de balises utilisé pour structurer le contenu d'une page web et lui fournir une signification et un but.
+
+### Anatomie d'un élément HTML
+
+<img  alt="Anatomie d'un élément HTML" src="https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/html-tag.gif"/>
+
+Il est possible d'imbriquer des éléments et certains éléments sont vides.
+
+### Anatomie d'un document HTML
+
+Squelette HTML5 basique :
 
 ```html
 <!DOCTYPE html>
@@ -59,12 +71,4 @@ Créer un dossier `projets-web` et un sous-dossier `site-web` quelque part dans 
   </body>
 </html>
 ```
-
-##  Les bases de HTML
-
-Hypertext Markup Language (HTML), c'est le code utilisé pour structurer le contenu d'une page web et lui fournir une signification et un but.
-
-<img  alt="Anatomie d'un élément HTML" src="https://github.com/CompuTux/ApprendreLeWeb/blob/master/images/html-tag.gif"/>
-
-
 
